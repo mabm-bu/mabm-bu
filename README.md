@@ -31,6 +31,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mabm-bu/mabm-bu/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
